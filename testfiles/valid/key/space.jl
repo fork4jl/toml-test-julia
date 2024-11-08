@@ -1,1 +1,1 @@
-Dict{String, Any}("a b" => Dict{String, Any}("value" => "1", "type" => "integer"))
+Dict{String, Any}("a b" => Dict{String, Any}("value" => "1", "type" => "integer"), " c d " => Dict{String, Any}("value" => "2", "type" => "integer"), " tbl " => Dict{String, Any}("\ttab\ttab\t" => Dict{String, Any}("value" => "tab", "type" => "string")))

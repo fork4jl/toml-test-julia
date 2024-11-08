@@ -1,0 +1,1 @@
+Dict{String, Any}("true" => Dict{String, Any}("value" => "true", "type" => "bool"), "false" => Dict{String, Any}("value" => "false", "type" => "bool"), "nan" => Dict{String, Any}("value" => "nan", "type" => "float"), "inf" => Dict{String, Any}("value" => "inf", "type" => "float"))

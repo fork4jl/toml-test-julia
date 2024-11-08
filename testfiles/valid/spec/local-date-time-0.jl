@@ -1,0 +1,1 @@
+Dict{String, Any}("ldt1" => Dict{String, Any}("value" => "1979-05-27T07:32:00", "type" => "datetime-local"), "ldt2" => Dict{String, Any}("value" => "1979-05-27T00:32:00.999", "type" => "datetime-local"))

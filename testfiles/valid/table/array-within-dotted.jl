@@ -1,0 +1,1 @@
+Dict{String, Any}("fruit" => Dict{String, Any}("apple" => Dict{String, Any}("seeds" => Any[Dict{String, Any}("size" => Dict{String, Any}("value" => "2", "type" => "integer"))], "color" => Dict{String, Any}("value" => "red", "type" => "string"))))

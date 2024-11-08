@@ -1,0 +1,1 @@
+Dict{String, Any}("str1" => Dict{String, Any}("value" => "Roses are red\nViolets are blue", "type" => "string"))

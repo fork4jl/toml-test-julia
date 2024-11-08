@@ -1,0 +1,1 @@
+Dict{String, Any}("quot15" => Dict{String, Any}("value" => "Here are fifteen quotation marks: \"\"\"\"\"\"\"\"\"\"\"\"\"\"\"", "type" => "string"), "apos15" => Dict{String, Any}("value" => "Here are fifteen apostrophes: '''''''''''''''", "type" => "string"), "str" => Dict{String, Any}("value" => "'That,' she said, 'is still pointless.'", "type" => "string"))

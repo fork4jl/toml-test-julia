@@ -1,0 +1,1 @@
+Dict{String, Any}("name" => Dict{String, Any}("value" => "Orange", "type" => "string"), "site" => Dict{String, Any}("google.com" => Dict{String, Any}("value" => "true", "type" => "bool")), "physical" => Dict{String, Any}("shape" => Dict{String, Any}("value" => "round", "type" => "string"), "color" => Dict{String, Any}("value" => "orange", "type" => "string")))

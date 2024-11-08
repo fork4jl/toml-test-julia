@@ -1,0 +1,1 @@
+Dict{String, Any}("min_float" => Dict{String, Any}("value" => "-9007199254740991", "type" => "float"), "max_float" => Dict{String, Any}("value" => "9007199254740991", "type" => "float"))

@@ -1,0 +1,1 @@
+Dict{String, Any}("table-2" => Dict{String, Any}("key2" => Dict{String, Any}("value" => "456", "type" => "integer"), "key1" => Dict{String, Any}("value" => "another string", "type" => "string")), "table-1" => Dict{String, Any}("key2" => Dict{String, Any}("value" => "123", "type" => "integer"), "key1" => Dict{String, Any}("value" => "some string", "type" => "string")))

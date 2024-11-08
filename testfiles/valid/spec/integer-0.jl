@@ -1,0 +1,1 @@
+Dict{String, Any}("int2" => Dict{String, Any}("value" => "42", "type" => "integer"), "int3" => Dict{String, Any}("value" => "0", "type" => "integer"), "int1" => Dict{String, Any}("value" => "99", "type" => "integer"), "int4" => Dict{String, Any}("value" => "-17", "type" => "integer"))

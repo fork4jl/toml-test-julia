@@ -1,0 +1,1 @@
+Dict{String, Any}("lines" => Dict{String, Any}("value" => "The first newline is\ntrimmed in raw strings.\n   All other whitespace\n   is preserved.\n", "type" => "string"), "regex2" => Dict{String, Any}("value" => "I [dw]on't need \\d{2} apples", "type" => "string"))

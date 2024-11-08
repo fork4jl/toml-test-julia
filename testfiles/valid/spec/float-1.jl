@@ -1,0 +1,1 @@
+Dict{String, Any}("flt8" => Dict{String, Any}("value" => "224617.445991228", "type" => "float"))

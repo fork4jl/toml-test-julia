@@ -1,0 +1,1 @@
+Dict{String, Any}("str2" => Dict{String, Any}("value" => "The quick brown fox jumps over the lazy dog.", "type" => "string"), "str3" => Dict{String, Any}("value" => "The quick brown fox jumps over the lazy dog.", "type" => "string"), "str1" => Dict{String, Any}("value" => "The quick brown fox jumps over the lazy dog.", "type" => "string"))

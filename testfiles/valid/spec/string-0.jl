@@ -1,0 +1,1 @@
+Dict{String, Any}("str" => Dict{String, Any}("value" => "I'm a string. \"You can quote me\". Name\tJosé\nLocation\tSF.", "type" => "string"))

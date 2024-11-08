@@ -1,0 +1,1 @@
+Dict{String, Any}("max_int" => Dict{String, Any}("value" => "9007199254740991", "type" => "integer"), "min_int" => Dict{String, Any}("value" => "-9007199254740991", "type" => "integer"))
