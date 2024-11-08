@@ -3,7 +3,7 @@ using Downloads
 using Tar
 using p7zip_jll
 
-const url = "https://github.com/BurntSushi/toml-test/archive/refs/tags/v1.2.0.tar.gz"
+const url = "https://github.com/BurntSushi/toml-test/archive/refs/tags/v1.5.0.tar.gz"
 const tarname = basename(url)
 const version = lstrip(split(tarname, ".tar.gz")[1], 'v')
 
@@ -57,7 +57,7 @@ function update()
             end
         end
     end
-    mv(test_dir, joinpath(@__DIR__, "testfiles"))
+    mv(test_dir, joinpath(@__DIR__, "testfiles"), force=true)
 end
 
 update()
